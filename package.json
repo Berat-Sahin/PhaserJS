@@ -13,5 +13,8 @@
         "parcel-bundler": "^1.12.5",
         "phaser": "^3.55.2",
         "webfontloader": "^1.6.28"
+    },
+    "devDependencies": {
+        "gh-pages": "^3.2.3"
     }
 }
