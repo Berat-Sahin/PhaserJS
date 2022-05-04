@@ -8,7 +8,7 @@
     "deploy": "gh-pages -d build",
     
     "scripts": {
-        "start": "parcel ./src/index.html",
+        "start": "parcel ./index.html",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
