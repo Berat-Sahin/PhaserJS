@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "homepage":"https://berat-sahin.github.io/PhaserJS/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    
     "scripts": {
         "start": "parcel ./src/index.html",
         "test": "echo \"Error: no test specified\" && exit 1"
